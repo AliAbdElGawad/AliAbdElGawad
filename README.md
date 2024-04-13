@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! 👋 I'm Ali AbdElGawad,<br>a passionate Frontend with a focus on Next.js.<br>I love crafting elegant solutions to complex problems and enjoy working late nights. 
+Hi there! 👋 I'm Ali AbdElGawad,<br>a passionate Frontend Freelancer with a focus on React.js.<br>I love crafting elegant solutions to complex problems and enjoy working late nights. 
 
 
 ## 🌐 Socials:
