@@ -24,5 +24,5 @@ Hi there! 👋 I'm Ali AbdElGawad,<br>a passionate Frontend Freelancer with a fo
 ---
 [![](https://visitcount.itsvg.in/api?id=AliAbdElGawad&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
+  ## 💰 You can help me by Buy me a Coffee
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/AliAbdElGawad)
