@@ -18,8 +18,9 @@ Hi there! 👋 I'm Ali AbdElGawad,<br>a passionate Frontend Freelancer with a fo
 ### ✍️ Quote of the day 
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+[comment]: ### 😂 Random Dev Meme
+[comment]: <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=AliAbdElGawad&icon=0&color=0)](https://visitcount.itsvg.in)
